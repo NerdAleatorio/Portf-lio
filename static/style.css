@@ -87,8 +87,8 @@ html, body{
 }
 
 section#inicio{
-    background-image: url("./img/THINK_TWICE.png");
-    background: linear-gradient(58.15deg, #049ba0 30.60%, #085066 70.80%);
+    background-image: url("../static/img/bakground2.jpeg");
+
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -162,4 +162,28 @@ i.menu-mobile{
     #main{
         margin-left: 0;
     }
+}
+
+section#sobre div#info li#escrito span#inf{
+    font-size: 1.2rem;
+    color: #0ee6ee;
+}
+
+section#sobre div#info li#escrito a{
+    font-size: 1.2rem;
+    color: #0ee6ee;
+}
+
+*::-webkit-scrollbar{
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track{
+    width: 12px;
+    box-shadow: inset 0 0 .3rem #00000050;
+    background-color: #fff;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: #085066;
 }
