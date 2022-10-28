@@ -87,8 +87,7 @@ html, body{
 }
 
 section#inicio{
-    background-image: url("../static/img/bakground2.jpeg");
-
+    background-image: url("../static/img/promissora.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -110,13 +109,9 @@ section#inicio span#subtitle{
     text-shadow: 4px 4px 10px black;
 }
 
-section#inicio div#arraste{
-    width: 9rem;
-}
-
 section#inicio div#arraste a{
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 i.menu-mobile{
@@ -147,7 +142,9 @@ i.menu-mobile{
 @media (max-width: 1024px){
     #header{
         left: -300px;
-        
+    }
+    section#inicio{
+        background-position: -940px;
     }
     i.menu-mobile{
         display: flex;
@@ -158,6 +155,9 @@ i.menu-mobile{
     section#inicio span#subtitle{
         margin-right: 0;
         font-size: 1rem;
+    }
+    section#inicio div#inicio-textos{
+        margin-top: 750px;
     }
     #main{
         margin-left: 0;
@@ -186,4 +186,8 @@ section#sobre div#info li#escrito a{
 
 *::-webkit-scrollbar-thumb{
     background-color: #085066;
+}
+
+.section-bg{
+    background-color: #9fdaec;
 }
