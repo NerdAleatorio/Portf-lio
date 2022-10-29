@@ -238,3 +238,16 @@ section#sobre div#info li#escrito a{
 section#curriculo div#img-ifro img{
     height: 350px;
 }
+
+.carousel-control-prev{
+    margin-left: -3rem;
+}
+
+
+.carousel-control-next{
+    margin-right: -1rem;
+}
+
+.carousel-indicators{
+    margin-bottom: -35px;
+}
