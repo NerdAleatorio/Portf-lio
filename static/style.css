@@ -162,6 +162,9 @@ i.menu-mobile{
     #main{
         margin-left: 0;
     }
+    #social a{
+        align-self: start;
+    }
 }
 
 section#sobre div#info li#escrito span#inf{
@@ -290,3 +293,14 @@ section#curriculo div#img-ifro img{
     }
 }
 
+#links-text{
+    margin-bottom: 1rem;
+}
+
+#github{
+    height: 80%;
+}
+
+#buscando{
+    margin-top: 3rem;
+}
