@@ -2,8 +2,8 @@
 ![image.png](./static/img/V.png)
 
 ## Índice
-* [O que é?](#%EF%B8%8F-o-que-e-?)
-* [Tecnologias implementadas](#%EF%B8%8F-tecnologias-implementadasa)
+* [O que é?](#%EF%B8%8F-o-que-é-?)
+* [Tecnologias implementadas](#%EF%B8%8F-tecnologias-implementadas)
 * [Ambientes de desenvolvimento](#%EF%B8%8F-ambientes-de-desenvolvimento)
 * [Sites utilizados](#-sites-utilizados)
 * [Visualizar o projeto](#-visualizar-o-projeto)
@@ -31,7 +31,7 @@ Portfólio completo contendo informações sobre seu autor, como habilidades, co
 
 ## 📌 Visualizar o projeto
 
-Acesse [deste link](https://myportfolioiv.herokuapp.com/).
+Acesse através [deste link](https://myportfolioiv.herokuapp.com/).
 
 ## 👨🏻‍🎓 Desenvolvedor
 
