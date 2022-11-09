@@ -1,5 +1,5 @@
 # Portfólio responsivo
-![image.png](./static/img/V.png)
+![image.png](./static/IV-logo.png)
 
 ## Índice
 * [O que é?](#%EF%B8%8F-o-que-é-?)
